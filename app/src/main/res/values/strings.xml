@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">TaskToDo</string>
+
+    <!-- Home -->
+    <string name="subtitle_today">Tus tareas del día</string>
+    <string name="section_tasks">Tareas</string>
+    <string name="filter_all">Todas</string>
+    <string name="filter_active">Activas</string>
+    <string name="filter_done">Hechas</string>
+
+    <!-- Summary -->
+    <string name="summary_label">Progreso del día</string>
+    <string name="summary_empty">Añade tu primera tarea</string>
+    <string name="summary_all_done">¡Todo completado!</string>
+    <string name="summary_partial">%1$d de %2$d completadas</string>
+
+    <!-- Empty states -->
+    <string name="empty_all_title">Sin tareas todavía</string>
+    <string name="empty_all_body">Toca “Nueva tarea” y empieza a organizar tu día.</string>
+    <string name="empty_active_title">¡Todo hecho!</string>
+    <string name="empty_active_body">No tienes tareas pendientes. Descansa o añade más.</string>
+    <string name="empty_done_title">Sin tareas completadas</string>
+    <string name="empty_done_body">Completa una tarea y aparecerá aquí.</string>
+
+    <!-- Actions -->
+    <string name="new_task">Nueva tarea</string>
+    <string name="edit_task">Editar tarea</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="add">Agregar</string>
+    <string name="title_label">Título de la tarea</string>
+    <string name="title_hint">Escribe una tarea…</string>
+    <string name="category_label">Categoría</string>
+    <string name="error_empty">Escribe un título para la tarea</string>
+    <string name="task_deleted">Tarea eliminada</string>
+    <string name="undo">Deshacer</string>
+
+    <!-- Categories -->
+    <string name="cat_personal">Personal</string>
+    <string name="cat_trabajo">Trabajo</string>
+    <string name="cat_estudio">Estudio</string>
+    <string name="cat_salud">Salud</string>
+    <string name="cat_otro">Otro</string>
+</resources>

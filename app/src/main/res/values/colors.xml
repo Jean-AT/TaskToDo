@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <!-- Navy palette -->
+    <color name="navy_950">#FF03061A</color>
+    <color name="navy_900">#FF060C22</color>
+    <color name="navy_800">#FF0A1330</color>
+    <color name="navy_700">#FF101D44</color>
+    <color name="navy_600">#FF182A5C</color>
+
+    <!-- Accent (iOS blue) -->
+    <color name="accent">#FF4A80FF</color>
+    <color name="accent_light">#FF7AA6FF</color>
+    <color name="accent_deep">#FF2A4FD0</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFA6B4DA</color>
+    <color name="text_hint">#FF6C7BA6</color>
+    <color name="text_disabled">#66A6B4DA</color>
+
+    <!-- Glass -->
+    <color name="glass_stroke">#59FFFFFF</color>
+    <color name="glass_fill">#14FFFFFF</color>
+    <color name="glass_fill_strong">#24FFFFFF</color>
+
+    <!-- Categories -->
+    <color name="cat_personal">#FF5B8CFF</color>
+    <color name="cat_trabajo">#FFB98CFF</color>
+    <color name="cat_estudio">#FF3DD6C3</color>
+    <color name="cat_salud">#FFFF7A9C</color>
+    <color name="cat_otro">#FF9EADBF</color>
+</resources>
